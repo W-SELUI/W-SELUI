@@ -1,5 +1,5 @@
-<h1 align="center">$ whoami >> William Selui</h1>
-<h3 align="center">Can I have 100 bucks pls??</h3>
+<h1 align="center">$ whoami >> Root. Always Root</h1>
+<h3 align="center">Matthew 9 : 29</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
