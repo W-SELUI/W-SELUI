@@ -2,7 +2,7 @@
 <h3 align="center">Matthew 9 : 29</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+USP;PASS+Leader+for+CS112;Interning+%40+APRC;Building+cool+things%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+USP;PASS+Leader+for+CS112;Building+cool+things%2C+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### About Me
 
-Second-year Software Engineering student at USP, Suva — currently interning at the Asia Pacific Regulatory Centre and running weekly PASS sessions for CS112. I build across web, mobile, and ML — from career-prediction models in Python to distributed systems coursework in Java.
+Second-year Software Engineering student at USP - Laucala Campus. I build across web, mobile, and ML — from career-prediction models in Python to distributed systems coursework in Java.
 
 ---
 
