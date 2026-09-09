@@ -14,7 +14,7 @@
 
 ### About Me
 
-Second-year Software Engineering student at USP, Suva — currently interning at the Asia Pacific Regulatory Centre and running weekly PASS sessions for CS112. I build across web, mobile, and ML — from career-prediction models in Python to distributed systems coursework in Java.
+Second-year Software Engineering student at USP, Suva running weekly PASS sessions to aid students. I build across web, mobile, and ML — from career-prediction models in Python to distributed systems coursework in Java.
 
 ---
 
