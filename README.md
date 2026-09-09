@@ -46,10 +46,8 @@ Second-year Software Engineering student at USP, Suva — currently interning at
 ---
 
 <h3 align="left">Tech Stack</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,c,cpp,css,dart,figma,flutter,git,html,java,js,matlab,mysql,python" alt="Tech stack icons" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/W-SELUI/W-SELUI/main/tech-orbit.svg" width="400" alt="Tech stack orbit" />
 </p>
 
 ---
