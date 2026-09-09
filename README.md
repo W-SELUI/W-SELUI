@@ -2,7 +2,7 @@
 <h3 align="center">Matthew 9 : 29</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+USP;PASS+Leader+for+CS112;Building+cool+things%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+USP;PASS+Leader+for+CS112;Interning+%40+APRC;Building+cool+things%2C+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### About Me
 
-Second-year Software Engineering student at USP, Suva. I build across web, mobile, and ML — from career-prediction models in Python to distributed systems coursework in Java.
+Second-year Software Engineering student at USP, Suva — currently interning at the Asia Pacific Regulatory Centre and running weekly PASS sessions for CS112. I build across web, mobile, and ML — from career-prediction models in Python to distributed systems coursework in Java.
 
 ---
 
@@ -27,15 +27,18 @@ Second-year Software Engineering student at USP, Suva. I build across web, mobil
 
 ---
 
-### GitHub Stats
+### System Boot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=W-SELUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="William's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-SELUI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=%5Bboot%5D+initializing+kernel...;%5Bok%5D+loading+modules%3A+java%2C+python%2C+typescript;%5Bok%5D+mounting+%2Fhome%2Fwilliam;%5Bok%5D+user%3A+W-SELUI+authenticated;%24+whoami+%3E%3E+root.+always+root_" alt="Terminal boot animation" />
 </p>
 
+---
+
+### Now Playing
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=W-SELUI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=39FF14&bar_color_cover=false" width="350" alt="Spotify now playing" />
 </p>
 
 ---
