@@ -2,7 +2,7 @@
 <h3 align="center">Matthew 9 : 29</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=fff&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+USP;PASS+Leader+for+CS112;Building+cool+things%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+USP;PASS+Leader+for+CS112;Building+cool+things%2C+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
