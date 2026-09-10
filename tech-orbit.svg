@@ -14,7 +14,7 @@
   <rect x="0" y="0" width="620" height="34" rx="6" fill="#161b22"/>
   <rect x="0" y="28" width="620" height="6" fill="#161b22"/>
   <line x1="0" y1="34" x2="620" y2="34" stroke="#30363d" stroke-width="1"/>
-  <text x="16" y="22" class="line label" font-size="13">bash — william@usp</text>
+  <text x="16" y="22" class="line label" font-size="13">bash — root</text>
 
   <g transform="translate(20,58)">
     <text class="line"><tspan class="prompt">root</tspan><tspan class="val">:</tspan><tspan class="path">~</tspan><tspan class="val">$ cat skills.txt</tspan></text>
