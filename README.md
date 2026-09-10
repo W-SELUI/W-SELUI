@@ -47,7 +47,7 @@ Second-year Software Engineering student at USP - Laucala Campus. I build across
 
 <h3 align="left">Tech Stack</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/W-SELUI/W-SELUI/main/tech-orbit.svg" width="400" alt="Tech stack orbit" />
+  <img src="https://raw.githubusercontent.com/W-SELUI/W-SELUI/main/tech-orbit.svg" width="900" alt="Tech stack orbit" />
 </p>
 
 ---
