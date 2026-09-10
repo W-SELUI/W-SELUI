@@ -9,7 +9,7 @@
     </style>
   </defs>
 
-  <rect x="0" y="0" width="900" height="400" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect x="0" y="0" width="1900" height="700" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
   <rect x="0" y="0" width="620" height="34" rx="6" fill="#161b22"/>
   <rect x="0" y="28" width="620" height="6" fill="#161b22"/>
