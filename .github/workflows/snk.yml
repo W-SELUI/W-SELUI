@@ -1,4 +1,4 @@
-name: generate pacman animation
+name: generate bomberman animation
 
 on:
   schedule:
@@ -13,13 +13,12 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Generate Pac-Man contribution graph
+      - name: Generate Bomberman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: W-SELUI
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: pacman
-          player_style: aggressive
+          games: bomberman
           hide_month_labels: false
 
       - name: Push SVGs to output branch
