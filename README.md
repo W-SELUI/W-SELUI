@@ -55,7 +55,7 @@ Second-year Software Engineering student at USP - Laucala Campus. I build across
 ## Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W-SELUI/W-SELUI/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W-SELUI/W-SELUI/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/W-SELUI/W-SELUI/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W-SELUI/W-SELUI/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W-SELUI/W-SELUI/output/bomberman-contribution-graph.svg">
+  <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/W-SELUI/W-SELUI/output/bomberman-contribution-graph.svg">
 </picture>
