@@ -54,8 +54,6 @@ Second-year Software Engineering student at USP - Laucala Campus. I build across
 
 ## Contribution Activity
 
-## Contribution Activity
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W-SELUI/W-SELUI/output/bomberman-contribution-graph-dark.svg">
