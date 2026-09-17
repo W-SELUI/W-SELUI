@@ -19,8 +19,8 @@ jobs:
       - name: Generate Bomberman SVGs
         run: |
           mkdir -p dist
-          npx pacman-contribution-graph --game bomberman --platform github --username W-SELUI --gameTheme github --output dist/bomberman-contribution-graph.svg
-          npx pacman-contribution-graph --game bomberman --platform github --username W-SELUI --gameTheme github-dark --output dist/bomberman-contribution-graph-dark.svg
+           npx pacman-contribution-graph --game pacman --platform github --username W-SELUI --gameTheme github --output dist/pacman-contribution-graph.svg
+           npx pacman-contribution-graph --game pacman --platform github --username W-SELUI --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
