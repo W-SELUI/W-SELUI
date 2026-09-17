@@ -18,7 +18,7 @@ Second-year Software Engineering student at USP - Laucala Campus. I build across
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/william-selui-826843344/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -39,7 +39,7 @@ Second-year Software Engineering student at USP - Laucala Campus. I build across
 
 ---
 
-### System Boot
+## System Boot
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=%5Bboot%5D+initializing+kernel...;%5Bok%5D+loading+modules%3A+java%2C+python%2C+typescript;%5Bok%5D+mounting+%2Fhome%2Fwilliam;%5Bok%5D+user%3A+W-SELUI+authenticated;%24+whoami+%3E%3E+root.+always+root_" alt="Terminal boot animation" />
@@ -47,7 +47,7 @@ Second-year Software Engineering student at USP - Laucala Campus. I build across
 
 ---
 
-### Now Playing
+## Now Playing
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -57,14 +57,12 @@ Second-year Software Engineering student at USP - Laucala Campus. I build across
 
 ---
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/W-SELUI/W-SELUI/main/tech-orbit.svg" width="900" alt="Tech stack orbit" />
 </p>
 
 ---
-## Contribution Activity
-
 ## Contribution Activity
 
 <p align="center">
