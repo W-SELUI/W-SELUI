@@ -63,9 +63,6 @@ Second-year Software Engineering student at USP - Laucala Campus. I build across
 </p>
 
 ---
-
-## Contribution Activity
-
 ## Contribution Activity
 
 <p align="center">
