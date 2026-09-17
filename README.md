@@ -12,7 +12,7 @@
 
 ---
 
-### About Me
+## About Me
 
 Second-year Software Engineering student at USP - Laucala Campus. I build across web, mobile, and ML — from career-prediction models in Python to distributed systems coursework in Java.
 
