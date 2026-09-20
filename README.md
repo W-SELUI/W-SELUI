@@ -11,11 +11,13 @@
 </p>
 
 ---
+## 👋 About Me
 
-## About Me
-
-Second-year Software Engineering student at USP - Laucala Campus. I build across web, mobile, and ML — from career-prediction models in Python to distributed systems coursework in Java.
-
+Hey, I'm William — a Software Engineering student at USP, Fiji 🇫🇯
+- 💻 Into creative coding, computer vision & building random cool stuff
+- 🌊 Tongan roots — might start a tech thing there one day
+- 🛠️ Been messing with Python/ML, Flutter, MediaPipe & web dev
+- 📌 "Obsession always wins"
 ---
 
 <h2 align="left">Connect with me:</h2>
