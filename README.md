@@ -30,7 +30,7 @@ Hey, I'm William — a Software Engineering student at USP, Fiji 🇫🇯
   <img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" />
 </a>
 
-  <a href="https://fb.com/wselui" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61593966856829" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
