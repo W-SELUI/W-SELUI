@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+USP;PASS+Leader;Building+cool+things%2C+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/W-SELUI"><img src="https://komarev.com/ghpvc/?username=W-SELUI&color=4FC3F7&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
-  <a href="https://github.com/W-SELUI?tab=followers"><img src="https://img.shields.io/github/followers/W-SELUI?label=Followers&style=flat-square&color=4FC3F7" alt="Followers" /></a>
-</p>
-
 ---
 ## 👋 About Me
 
