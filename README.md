@@ -37,11 +37,7 @@ Hey, I'm William — a Software Engineering student at USP, Fiji 🇫🇯
 
 ## Now Playing
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hvvwqsk52nr35dfqmnopv6eu54&cover_image=true&theme=spotify-embed&show_offline=false&background_color=0d1117&bar_color=39FF14&bar_color_cover=false&interchange=false" width="350" alt="Spotify now playing" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/kittinan/spotify-github-profile"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hvvwqsk52nr35dfqmnopv6eu54&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=39FF14&bar_color_cover=false&interchange=false" width="350" alt="Spotify now playing" /> </a> </p>
 
 ---
 
