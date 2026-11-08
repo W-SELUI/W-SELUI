@@ -26,6 +26,15 @@ Hey, I'm William — a Software Engineering student at USP, Fiji 🇫🇯
 - 📌 "Obsession always wins"
 
 ---
+
+## System Boot
+
+<p align="center">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=30&duration=2200&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=1100&height=60&lines=%5Bboot%5D+brewing+coffee.exe...;%5Bboot%5D+syncing+Fiji+%3C-%3E+Tonga...;%5Bboot%5D+compiling+big+ideas...;%5Bok%5D+obsession+always+wins_" alt="System boot" />
+</p>
+
+---
+
 ## Now Playing
 
 <p align="center"> <a href="https://github.com/kittinan/spotify-github-profile"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hvvwqsk52nr35dfqmnopv6eu54&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=39FF14&bar_color_cover=false&interchange=false" width="350" alt="Spotify now playing" /> </a> </p>
