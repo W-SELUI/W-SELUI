@@ -52,7 +52,6 @@ Hey, I'm William — a Software Engineering student at USP, Fiji 🇫🇯
 ## Contribution Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=W-SELUI&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=W-SELUI&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 </p>
 
