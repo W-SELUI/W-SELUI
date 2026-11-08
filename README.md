@@ -30,7 +30,7 @@ Hey, I'm William — a Software Engineering student at USP, Fiji 🇫🇯
 ## System Boot
 
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=30&duration=2200&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=1100&height=60&lines=%5Bboot%5D+brewing+coffee.exe...;%5Bboot%5D+syncing+Fiji+%3C-%3E+Tonga...;%5Bboot%5D+compiling+big+ideas...;%5Bok%5D+obsession+always+wins_" alt="System boot" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&duration=2200&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=1100&height=60&lines=%5Bboot%5D+brewing+coffee.exe...;%5Bboot%5D+compiling+big+ideas...;%5Bok%5D+obsession+always+wins_" alt="System boot" />
 </p>
 
 ---
