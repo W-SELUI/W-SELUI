@@ -30,7 +30,7 @@ Hey, I'm William — a Software Engineering student at USP, Fiji 🇫🇯
 ## System Boot
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=2200&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=%5Bboot%5D+initializing+kernel...;%5Bok%5D+loading+modules%3A+java%2C+python%2C+c%2B%2B%2C+dart%2C+js;%5Bok%5D+mounting+%2Fhome%2Fwilliam;%5Bok%5D+user%3A+W-SELUI+authenticated;%24+whoami+%3E%3E+root.+always+root_" alt="Terminal boot animation" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=30&duration=2200&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=1100&height=60&lines=%5Bboot%5D+initializing+kernel...;%5Bok%5D+loading+modules%3A+java%2C+python%2C+c%2B%2B%2C+dart%2C+js;%5Bok%5D+mounting+%2Fhome%2Fwilliam;%5Bok%5D+user%3A+W-SELUI+authenticated;%24+whoami+%3E%3E+root.+always+root_" alt="Terminal boot animation" />
 </p>
 
 ---
